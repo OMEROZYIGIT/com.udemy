@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aad9df01-7c04-40d7-bd8b-f4a171df9bdb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/udemy02/Calisan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/udemy02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/udemy02/Yazilimci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/udemy02/Yonetici.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/udemy01/Hayvan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy01/Hayvan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/udemy02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy02/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +39,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zenbook\IdeaProjects\udemy\src\udemy03" />
       <recent name="C:\Users\Zenbook\IdeaProjects\udemy\src\udemy02" />
       <recent name="C:\Users\Zenbook\IdeaProjects\udemy\src" />
     </key>

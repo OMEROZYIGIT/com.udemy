@@ -56,8 +56,8 @@ public class Main {
                         yazilimci.formatAt(isletim_sistemi);
                         
                     } else if (y_islem.equals("2")){
-                        
                         yazilimci.bilgileriGoster();
+
                     } else {
                         System.out.println("Geçersiz Yazılımcı İşlemi...");
                     }
