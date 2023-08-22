@@ -1,3 +1,4 @@
+package udemy04;
 
 public class Main {
     public static boolean asalMi(int sayi) {

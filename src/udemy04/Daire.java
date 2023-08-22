@@ -1,5 +1,6 @@
+package udemy04;
 
-public class Daire extends Sekil{
+public class Daire extends Sekil {
     
     private int yaricap;
     

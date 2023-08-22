@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="aad9df01-7c04-40d7-bd8b-f4a171df9bdb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/udemy02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Daire.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy04/Daire.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy04/Kare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/udemy04/Sekil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Zenbook\IdeaProjects\udemy\src\udemy05" />
       <recent name="C:\Users\Zenbook\IdeaProjects\udemy\src\udemy03" />
       <recent name="C:\Users\Zenbook\IdeaProjects\udemy\src\udemy02" />
       <recent name="C:\Users\Zenbook\IdeaProjects\udemy\src" />
